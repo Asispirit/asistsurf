@@ -1,0 +1,6 @@
+*.html
+*.pyc
+conf/prettycreds.cnf
+pyenv/*
+html/*
+
