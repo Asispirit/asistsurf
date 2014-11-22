@@ -1,0 +1,25 @@
+Functionalities:
+===============
+
+1. Check out an account registered with asistsurf with a single click of a button. The particular account must be registered with asistsurf and the account's host should be supported by asistsurf. 
+2. Email reception alerts and message reception alerts may be set up. This will be configurable by the user. The user may set up the alert for any email or message reception or for reception from a particular contact. There will be a separate set of config for each website supported by asistsurf.
+3. Log every page visit by default. The user may choose to delete one or more of these logged URLs later. Logging of every page visit will serve the purpose of having a bookmark list outside the user's computer. So if the user uses asistsurf to visit a URL from any location, she will be able to refer back to it with couple of clicks later. Such bookmarks will save session info (if necessary) too, so the user will always come to the right page directly (until the session gets expired by the host of the visited site).
+4. User would be able to use browser based chat which will multiplex all the chat hosts that the user chooses. Thus the user would be able to use gmail chat and facebook chat on the same chat space. Similar functionality will exist for email accounts, search engines, and other websites that are functionally similar to one another.
+5. It will handle all requirements set by a supported website automatically, without the user's help. However, the user may choose to disable this conditionally. Example: Some websites require that the user should change her password every couple of months. asistsurf will handle the process without the user's intervention. The set up of this feature will be done in a phased manner, by implementing a selected set of processes in every phase. The user may or may not choose to be a part of the process. 
+Note: Certain processes may not be handled without human intervention. Example: A website requiring the user to type in a code sent to her mobile number as part of user verification process.
+6. The user would be able to select a country from which she surfs. By default, this will be the same country in which she is physically in. But if the user chooses a different country, then a IP address existing in that country would be used to route all requests from the user.
+7. Asistsurf will have a remote desktop feature that will allow the user to access a remote computer.
+8. The user would be able to set up a VPN with a selected set of nodes (identified by their IP addresses or hostnames). She may choose to add or remove nodes from this VPN as and when she pleases.
+9. Asistsurf will be capable of handling account creation process of certain supported websites. This process will also include the verification process by logging on to a given email account and clicking on the verification link.
+10. Asistsurf will provide the user with a feature by which the user would be able to demonstrate some process using a set of screens (like the demonstration of some topic found on youtube). This feature will also allow the user to do a single click upload on Youtube.  
+
+
+
+Provides the Following Facilities:
+==================================
+
+1. All user data (like passwords and account related info of various websites) will be stored on asistsurf database in a machine readable form only.
+2. Users will be able to choose from a list of available skins.
+3. asistsurf will be capable of handling captcha challenges too.
+4. The user will be able to choose a browser signature  to surf with. Example: The user chooses the browser signature of chromium and the visited websites see the user as using chromium browser even if the user is actually using Firefox.
+5. Asistsurf will show all advertisement available on supported websites appropriately, so that the supported websites do not face any issues due to asistsurf.
